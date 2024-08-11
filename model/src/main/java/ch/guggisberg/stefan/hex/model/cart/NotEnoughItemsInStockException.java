@@ -1,4 +1,4 @@
-package ch.guggisberg.stefan.hex.model.product;
+package ch.guggisberg.stefan.hex.model.cart;
 
 public class NotEnoughItemsInStockException extends Exception {
 
